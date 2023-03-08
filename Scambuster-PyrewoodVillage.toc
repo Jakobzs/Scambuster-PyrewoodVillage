@@ -1,0 +1,13 @@
+## Interface: 30401
+## Title: Scambuster-PyrewoodVillage
+## Notes: Extension for Scambuster packaging Pyrewood Village realm data
+## Author: Swedge
+## Version: @project-version@
+## DefaultState: enabled
+## Dependencies: Scambuster
+## X-Curse-Project-ID: 809313111111111
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
