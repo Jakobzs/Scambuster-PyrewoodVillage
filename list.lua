@@ -5,10 +5,31 @@ local _, t = ...
 t.version = "@project-version@"
 
 t.case_table = {
-    [1] = {
-        name = "Testy",
+    {
+        name = "Badplayer",
         category = "raid",
-        description = "Got a bit too upset at demons and had a strop.",
+        description = "A baddie player.",
         url = "https://wowpedia.fandom.com/wiki/Culling_of_Stratholme",
     },
+    {
+        category = "raid",
+        level = 4,
+        description = "Some baddie players.",
+        url = "https://discord.com/channels/1234/5678",
+        players = {
+            {
+                name = "Baddieone",
+                class = "PRIEST",
+                --guid = "Player-4453-12345678",
+                faction = "Horde",
+            },
+            {
+                name = "Baddietwo",
+                class = "SHAMAN",
+                --guid = "Player-4453-12345678",
+                faction = "Horde",
+                aliases = {"Canturano"},
+            }
+        }
+    }
 }
