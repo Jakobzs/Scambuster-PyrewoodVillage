@@ -6,10 +6,12 @@ t.version = "@project-version@"
 
 t.case_table = {
     {
-        name = "Badplayer",
-        category = "raid",
-        description = "A baddie player.",
-        url = "https://wowpedia.fandom.com/wiki/Culling_of_Stratholme",
+        name = "Ursacrazy",
+        category = "dungeon",
+        description = "Lying about cuts and boosts, even when shown hard evidence of them lying",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+        faction = "ALLIANCE",
+        aliases = {"Labb"},
     },
     {
         category = "raid",
