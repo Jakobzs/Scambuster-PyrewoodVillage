@@ -7,6 +7,7 @@ t.version = "@project-version@"
 t.case_table = {
     {
         name = "Ursacrazy",
+        guid = "Player-4453-0318A3A0",
         category = "dungeon",
         description = "Lying about cuts and boosts, even when shown hard evidence of them lying",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
@@ -29,9 +30,11 @@ t.case_table = {
             },
             {
                 name = "Hallinskioi",
+                guid = "Player-4453-04430B0E",
             },
             {
                 name = "Kuzzenbo",
+                guid = "Player-4453-01DD5DC8",
             }
         }
     },
@@ -815,7 +818,7 @@ t.case_table = {
                 guid = "Player-4453-04CFFA4E",
             },
             {
-                name = "Awopethiw",
+                name = "Awopetihw",
             },
         }
     },
@@ -834,6 +837,7 @@ t.case_table = {
             },
             {
                 name = "Lustmachine",
+                guid = "Player-4453-03AE121C",
             },
             {
                 name = "Cormie",
@@ -886,9 +890,11 @@ t.case_table = {
             },
             {
                 name = "Gottréck",
+                guid = "Player-4453-02D2EC68",
             },
             {
                 name = "Dolena",
+                guid = "Player-4453-02FAB1AB",
             },
             {
                 name = "Olastina",
