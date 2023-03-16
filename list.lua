@@ -58,13 +58,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1041358424388145212",
     },
     {
-        name = "Frõst",
-        guid = "Player-4453-04A0BAF1",
-        category = "raid",
-        description = "Taking an item that was reserved by another player because they were \"the leader\"",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1041358424388145212",
-    },
-    {
         name = "Nixana",
         guid = "Player-4453-0463DBB9",
         category = "harassment",
