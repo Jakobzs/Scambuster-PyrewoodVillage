@@ -14,6 +14,262 @@ t.case_table = {
         aliases = {"Labb"},
     },
     {
+        name = "Majbrit",
+        category = "raid",
+        description = "Master looted Kael'thas loot to himself, left group, logged off.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1022123915352473631",
+    },
+    {
+        category = "trade",
+        description = "Scammed guildies out of real life cash, with no looks to repay them - This has affected far more people than previously thought - be very careful",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1023955064118853702",
+        players = {
+            {
+                name = "Halin",
+            },
+            {
+                name = "Hallinskioi",
+            },
+            {
+                name = "Kuzzenbo",
+            }
+        }
+    },
+    {
+        name = "Legato",
+        guid = "Player-4453-03954230",
+        category = "trade",
+        description = "Scammed a player out of 20k gold, is currently guild hopping and won't answer questions regarding the matter",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1026546759943598191",
+    },
+    {
+        name = "Xarypopina",
+        guid = "Player-4453-049CACEE",
+        category = "raid",
+        description = "Ninja'd axe even after seeing loot rules",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1027611100998537276",
+    },
+    {
+        name = "Raymondina",
+        guid = "Player-4453-04665B9E",
+        category = "dungeon",
+        description = "Ninja'd JC pattern from a dungeon and didn't have JC.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1027646778763382784",
+    },
+    {
+        name = "Overdise",
+        guid = "Player-4453-048F664F",
+        category = "raid",
+        description = "Needs on items to sell to other party members when they have better equipped.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1027650876766171176",
+    },
+    {
+        category = "harassment",
+        description = "Openly racist and misogynistic guild leadership - join them at your own risk",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1030531198440710235",
+        players = {
+            {
+                name = "Ragnii",
+            },
+            {
+                name = "Reap",
+            },
+            {
+                name = "Critler",
+            }
+        }
+    },
+    {
+        name = "Plaguen",
+        guid = "Player-4453-0468F206",
+        category = "raid",
+        description = "Took item in Naxx as MS and put it on the AH instead of equipping",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1030540648606085250",
+    },
+    {
+        name = "Whynbt",
+        guid = "Player-4453-0487F44A",
+        category = "raid",
+        description = "Ninja'd tier helm",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1032271707035160646",
+    },
+    {
+        name = "Shadeeye",
+        guid = "Player-4453-03F57AD3",
+        category = "raid",
+        description = "Rolled need on item already equipped \"incase it breaks\"",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1032272538874683513",
+    },
+    {
+        name = "Darkent",
+        guid = "Player-4453-041884EF",
+        category = "raid",
+        description = "Needed on a BoE raid item for AH spec...",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1032275263003820082",
+    },
+    {
+        name = "Vet",
+        guid = "Player-4453-019EA119",
+        category = "raid",
+        description = "Took a BoE that was an upgrade for a party member and put on the AH",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1032276292931964938",
+    },
+    {
+        name = "Foolishness",
+        guid = "Player-4453-047FBFED",
+        description = "Kicked everyone from guild and stole guildbank",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1032281978831130635",
+    },
+    {
+        name = "Nilba",
+        guid = "Player-4453-0498FD80",
+        category = "raid",
+        description = "Needed on item they'd agreed not to",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1032299624196743219",
+    },
+    {
+        name = "Sardar",
+        guid = "Player-4453-03FFAF27",
+        category = "raid",
+        description = "Needing on loot in order to keep it hostage then attempt to sell to other members of his group.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1034871677571580034",
+    },
+    {
+        name = "Arkrage",
+        guid = "Player-4453-043245BD",
+        category = "harassment",
+        description = "Using extremely homophobic and toxic language",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1035547275096760401",
+    },
+    {
+        name = "Silverrhand",
+        guid = "Player-4453-04A98079",
+        category = "dungeon",
+        description = "Took wand from an HC, lied about what they already had equipped and then gave abuse when asked about it",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1035551079808630794",
+    },
+    {
+        name = "Superfamous",
+        category = "trade",
+        description = "Scammed a player out of profession levelling kits with no plans to pay over 20k back",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1035611299985506434",
+    },
+    {
+        name = "Rasen",
+        guid = "Player-4453-000534F5",
+        category = "harassment",
+        description = "Xenophobic behaviour that carried on after dungeon ended",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1036289573657006100",
+    },
+    {
+        name = "Psychopatrix",
+        guid = "Player-4453-048E79F1",
+        category = "raid",
+        description = "Needed on world BoE stating they were going to equip it and put it on the AH",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1037067503655985363",
+    },
+    {
+        name = "Tendarigodx",
+        guid = "Player-4453-03BAA393",
+        category = "trade",
+        description = "Scammed multiple people out of summons for the HH event during hallow's end.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1038117543623262309",
+    },
+    {
+        name = "Thewakka",
+        guid = "Player-4453-037CC71D",
+        category = "harassment",
+        description = "Harassment of other players.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039503015121526786",
+    },
+    {
+        name = "Crrmz",
+        category = "raid",
+        description = "Blatantly ninja'ing items from OS then immediately leaving.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039503476503347291",
+    },
+    {
+        name = "Chawdekay",
+        category = "harassment",
+        description = "Abusive behaviour towards another player.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039567013212848228",
+    },
+    {
+        name = "Elde",
+        category = "raid",
+        description = "Gave Betrayer to person who didn't win the roll, with thin excuses as to why the SR and roll were ignored",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039859848285802496",
+    },
+    {
+        name = "Nindze",
+        category = "raid",
+        description = "Needed on plate, then left dungeon",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039860540547280906",
+    },
+    {
+        category = "raid",
+        description = "Changing loot rules to benefit one player, discarding SR rolls.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039861036192378930",
+        players = {
+            {
+                name = "Hotwheels",
+                guid = "Player-4453-033DB055",
+            },
+            {
+                name = "Bíblebasher",
+                guid = "Player-4453-031417CC",
+            }
+        }
+    },
+    {
+        name = "Sheidys",
+        guid = "Player-4453-04A09A50",
+        category = "raid",
+        description = "Ignored loot rule, kicked player and equipped for themselves.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039864903466500096",
+    },
+    {
+        name = "Fuintek",
+        category = "raid",
+        description = "Changing loot rules, ignoring rolls and seemingly trying to gear other players in their run.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039867043643674674",
+    },
+    {
+        name = "Rajä",
+        guid = "Player-4453-049003C4",
+        category = "raid",
+        description = "Ignored SR roll, made the winner roll again and gave to someone else in raid",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039871115188776980",
+    },
+    {
+        name = "Unknowhaji",
+        guid = "Player-4453-04A593FA",
+        category = "dungeon",
+        description = "Needing on all items (whether they can use them or not) no communication during the run either.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1040222436861427762",
+    },
+    {
+        name = "Müshi",
+        guid = "Player-4453-044F2F17",
+        category = "harassment",
+        description = "Threatened rape then stole guild bank and did a runner.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1040604830521118781",
+    },
+    {
+        name = "Builtdiff",
+        guid = "Player-4453-049D4CA4",
+        category = "raid",
+        description = "Ninja'd spellpower ring on DK",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1040678977796309032",
+    },
+    {
+        name = "Pêc",
+        guid = "Player-4453-032BC4A8",
+        category = "raid",
+        description = "Ninja'd arcanic tramplers, left raid and logged off.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1040680271101567108",
+    },
+    {
         name = "Naew",
         guid = "Player-4453-0485119B",
         category = "raid",
@@ -669,7 +925,6 @@ t.case_table = {
     {
         name = "Slicecream",
         guid = "Player-4453-0444C696",
-        category = "harassment",
         description = "Disbanded guild and took whole guildbank to sell without any notice or shares dished out to guildmembers, citing that they were quitting and wanted their \"fair share\" when asked about the situation.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1084056614002249729",
     },
