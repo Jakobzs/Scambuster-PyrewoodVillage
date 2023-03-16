@@ -6,13 +6,19 @@ t.version = "@project-version@"
 
 t.case_table = {
     {
-        name = "Ursacrazy",
-        guid = "Player-4453-0318A3A0",
-        category = "dungeon",
+        category = "raid",
         description = "Lying about cuts and boosts, even when shown hard evidence of them lying",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
-        faction = "ALLIANCE",
-        aliases = {"Labb"},
+        players = {
+            {
+                name = "Ursacrazy",
+                guid = "Player-4453-0318A3A0",
+            },
+            {
+                name = "Labb",
+                guid = "Player-4453-02F389C9",
+            }
+        }
     },
     {
         name = "Majbrit",
