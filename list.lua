@@ -940,4 +940,10 @@ t.case_table = {
         description = "Disbanded guild and took whole guildbank to sell without any notice or shares dished out to guildmembers, citing that they were quitting and wanted their \"fair share\" when asked about the situation.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1084056614002249729",
     },
+    {
+        name = "Hjärnskadad",
+        guid = "Player-4453-04810075",
+        description = "Kept all runed orbs at the end of raid without any prior announcement of them being HR",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1086587111198687243",
+    }
 }
