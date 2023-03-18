@@ -21,6 +21,59 @@ t.case_table = {
         }
     },
     {
+        name = "Gility",
+        guid = "Player-4453-0448E389",
+        category = "gdkp",
+        description = "Ninja looting/taking cuts from people/ GDKP lead abuse of power",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1007328716159983676",
+    },
+    {
+        name = "Heiu",
+        guid = "Player-4453-0436308A",
+        category = "gdkp",
+        description = "Ran a MH GDKP, refused to roll certain items. Kept them for themselves.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1009181383371014255",
+    },
+    {
+        name = "Hothot",
+        category = "harassment",
+        description = "Extremely toxic/racist language and behaviour used",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1010936487707164712",
+    },
+    {
+        name = "Quoji",
+        description = "Stole items from gbank to sell on the Auction House",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1016259527663951943",
+    },
+    {
+        category = "raid",
+        description = "Ninja'd tier on a SR run",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1017000252445839430",
+        players = {
+            {
+                name = "Xippelip",
+                guid = "Player-4453-0437C057",
+            },
+            {
+                name = "Cerelar",
+                guid = "Player-4453-044569DA",
+            }
+        }
+    },
+    {
+        name = "Caranthis",
+        category = "raid",
+        description = "Rolling on items they don't need to then sell to members of the group who did need them.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1017000468066603038",
+    },
+    {
+        name = "Tiktokfanboy",
+        guid = "Player-4453-045A8006",
+        category = "raid",
+        description = "Toxic attitude in PuG runs, creates the run and loots items to themself, removes people before loot distribution etc.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1019558511367163954",
+    },
+    {
         name = "Neferax",
         category = "raid",
         description = "Set up a Karazhan run for the event weapon, stole it, logged off instantly after leaving the group - classic ninja case.",
