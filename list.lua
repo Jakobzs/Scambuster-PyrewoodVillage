@@ -330,12 +330,11 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1041358424388145212",
     },
     {
-        name = "Alienclue",
+        name = "Óliviç",
         guid = "Player-4453-04A90785",
         category = "gdkp",
         description = "Ran with a 120k gold pot from a GDKP and was gloating about scamming everyone in the raid.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1041359331381235783",
-        aliases = {"Óliviç"},
     },
     {
         name = "Bowlcut",
@@ -399,12 +398,11 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1044195874483490816",
     },
     {
-        name = "Méñtàlîssûës",
+        name = "Strudelmaker",
         guid = "Player-4453-04BFDD9E",
         category = "raid",
         description = "Ignored a winning roll and didn't award the item, when asked why it hadn't been awarded they brought up the players gearscore. This had not been mentioned beforehand.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1044243960127819848",
-        aliases = {"Strudelmaker"},
     },
     {
         name = "Stigmati",
@@ -642,14 +640,14 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1065987103768461392",
     },
     {
-        name = "Gothgnome",
+        name = "Dionysüs",
         guid = "Player-4453-04CCDEF1",
         category = "raid",
         description = "Took VoA mount for themselves, not stated anywhere as HR",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1065991059533988001",
     },
     {
-        name = "Korvidæ",
+        name = "Kàý",
         guid = "Player-4453-01BFFB67",
         category = "raid",
         description = "Took Dying Curse without rolling it out and then \"disconnected\"",
