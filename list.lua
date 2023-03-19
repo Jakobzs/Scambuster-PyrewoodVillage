@@ -21,6 +21,245 @@ t.case_table = {
         }
     },
     {
+        category = "raid",
+        description = "Ninja looting",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+        players = {
+            {
+                name = "Blackrook",
+                guid = "Player-4453-02EE8270",
+            },
+            {
+                name = "Mograa",
+            },
+            {
+                name = "Kazlaa",
+                guid = "Player-4453-02BFA750",
+            }
+        }
+    },
+    {
+        name = "Mallisra",
+        category = "harassment",
+        description = "Toxic Behaviour",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Leelar",
+        guid = "Player-4453-02E34598",
+        category = "harassment",
+        description = "Toxicity",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Neverthan",
+        category = "raid",
+        description = "Boosting scamming/Toxicity",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Greatknight",
+        category = "raid",
+        description = "Ninja looting",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        category = "raid",
+        description = "Toxic/Racist Behaviour",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+        players = {
+            {
+                name = "Nelton",
+                guid = "Player-4453-033F652E",
+            },
+            {
+                name = "Paposh",
+                guid = "Player-4453-0349C175",
+            }
+        }
+    },
+    {
+        name = "Underline",
+        category = "raid",
+        description = "Ninja looting, then putting it straight on the AH. Under the same name.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Talda",
+        category = "harassment",
+        description = "Ninja looting/Toxicity",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        category = "raid",
+        description = "Toxic/Racist Behaviour",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+        players = {
+            {
+                name = "Weapôn",
+            },
+            {
+                name = "Lûna",
+            }
+        }
+    },
+    {
+        name = "Rominus",
+        category = "raid",
+        description = "Ninja'd an item, tried to sell it back to the group",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Lusilus",
+        guid = "Player-4453-023D9152",
+        category = "harassment",
+        description = "Toxicity, claiming things in the world are theirs",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Wetamin",
+        guid = "Player-4453-02F87649",
+        category = "raid",
+        description = "Ninja looting to put on auction house/boost scamming",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Dobbeltdean",
+        guid = "Player-4453-036E7C77",
+        category = "harassment",
+        description = "Encouraged another player to commit suicide/'neck themselves'.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Øzaru",
+        category = "harassment",
+        description = "Toxic/offensive behaviour in dungeon group.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/874622197145174017",
+    },
+    {
+        name = "Christopherr",
+        guid = "Player-4453-03558307",
+        category = "trade",
+        description = "Trade scamming. Will take your mats and log off.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/875045464284749834",
+    },
+    {
+        name = "Dualities",
+        guid = "Player-4453-0303AEF6",
+        category = "raid",
+        description = "Ninja'd item and put on the AH",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/879714435533520947",
+    },
+    {
+        name = "Moisttuppy",
+        guid = "Player-4453-02B93C76",
+        category = "harassment",
+        description = "Toxic/offensive behaviour to people who don't want boosts.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/881319102382239774",
+    },
+    {
+        name = "Scriven",
+        guid = "Player-4453-03388916",
+        category = "trade",
+        description = "Trade scamming. Logged off with mats after offering to craft.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/887097235987378186",
+    },
+    {
+        name = "Tirandee",
+        category = "dungeon",
+        description = "Ninja'd BoE from instance, then put on AH",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/889175972509782067",
+    },
+    {
+        name = "Madmohi",
+        guid = "Player-4453-03730A39",
+        category = "raid",
+        description = "Boost scamming",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/895595249869684736",
+    },
+    {
+        name = "Yalatiz",
+        guid = "Player-4453-0349BC8C",
+        category = "raid",
+        description = "Taking gear saying they're a MS tank/dps when they come in as a healer. Has Happened regularly with no warning.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/896044598248480848",
+    },
+    {
+        name = "Ghasaab",
+        category = "dungeon",
+        description = "Ninja in a dungeon group",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/903666448793210950",
+    },
+    {
+        name = "Coxie",
+        guid = "Player-4453-030F798C",
+        category = "harassment",
+        description = "Toxic and abusive behaviour in pugs/groups",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/922090981711577088",
+    },
+    {
+        name = "Totemjz",
+        guid = "Player-4453-0383B0D5",
+        category = "raid",
+        description = "Ninja'd Talon from Doomwalker run they organised.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/938032127746904064",
+    },
+    {
+        name = "Unbeatable",
+        guid = "Player-4453-0315200B",
+        category = "raid",
+        description = "Boost Scamming",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/940998275786498079",
+    },
+    {
+        name = "Smallbald",
+        guid = "Player-4453-0339303E",
+        category = "raid",
+        description = "Boost Scamming",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/960200765396353106",
+    },
+    {
+        name = "Megalops",
+        guid = "Player-4453-03F6928E",
+        category = "raid",
+        description = "Ninja looting a full 25-man raid boss loot table.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/976139922589233165",
+    },
+    {
+        name = "Billyboii",
+        guid = "Player-4453-03DA72E8",
+        category = "raid",
+        description = "Left Pug group as soon as item had dropped without saying a word",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/981175817260388352",
+    },
+    {
+        name = "Flyléaf",
+        category = "harassment",
+        description = "Extremely toxic/abusive behaviour",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/989475740280062004",
+    },
+    {
+        name = "Fåt",
+        guid = "Player-4453-038BCAB9",
+        category = "harassment",
+        description = "Racism/Anti Semitic hate speech",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/989921913163903026",
+    },
+    {
+        name = "Yuukirinrin",
+        guid = "Player-4453-043B67BC",
+        category = "harassment",
+        description = "Xenophobic and homophobic hate speech",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1000697369014312971",
+    },
+    {
+        name = "Vysandra",
+        guid = "Player-4453-04428C73",
+        category = "raid",
+        description = "Ninja looting / master looter abuse in a PUG raid.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1006836219461763092",
+    },
+    {
         name = "Gility",
         guid = "Player-4453-0448E389",
         category = "gdkp",
