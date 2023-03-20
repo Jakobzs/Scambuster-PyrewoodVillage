@@ -865,7 +865,7 @@ t.case_table = {
                 name = "Qúestra",
             },
             {
-                name = "Kurasii",
+                name = "Kurásii",
                 guid = "Player-4453-044DA5AB",
             },
             {
@@ -876,7 +876,7 @@ t.case_table = {
                 guid = "Player-4453-044CAD7F",
             },
             {
-                name = "Quéstra",
+                name = "Bigmanforce",
                 guid = "Player-4453-044DA904",
             }
         }
