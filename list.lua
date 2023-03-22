@@ -1294,5 +1294,11 @@ t.case_table = {
         guid = "Player-4453-04810075",
         description = "Kept all runed orbs at the end of raid without any prior announcement of them being HR",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1086587111198687243",
+    },
+    {
+        name = "Maexna",
+        guid = "Player-4453-04D68025",
+        description = "Ninja'd Arcanic Tramplers to put on AH. When guild was spoken to, they decided not to rectify the situation",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1088066526692786246",
     }
 }
