@@ -1161,7 +1161,7 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1074279848761110608",
     },
     {
-        description = "Part of the 'goofy' guild. Amongst racism, ninja looting and more, there are too many reasons to list why they are here. If curious, head to the URL, and avoid the 'goofy' guild at all cost.",
+        description = "Part of the 'goofy' guild (now disbanded). Amongst racism, ninja looting and more, there are too many reasons to list why they are here. If curious, head to the URL, and avoid the 'goofy' guild at all cost.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1074283381145210880",
         players = {
             {
@@ -1173,7 +1173,39 @@ t.case_table = {
                 guid = "Player-4453-04CFFA4E",
             },
             {
+                name = "Bluepenguin",
+                guid = "Player-4453-04C33372",
+            },
+            {
+                name = "Honeychild",
+            },
+            {
+                name = "Bettybop",
+                guid = "Player-4453-01BB9D66",
+            },
+            {
+                name = "Masye",
+                guid = "Player-4453-04D29954",
+            },
+            {
+                name = "Kittypurry",
+            },
+            {
+                name = "Mysterperez",
+                guid = "Player-4453-04D2D42E",
+            },
+            {
+                name = "Clegnutgreg",
+            },
+            {
                 name = "Awopetihw",
+            },
+            {
+                name = "Dex",
+            },
+            {
+                name = "Tangledup",
+                guid = "Player-4453-044C7B84",
             },
         }
     },
