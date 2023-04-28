@@ -991,13 +991,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1065987103768461392",
     },
     {
-        name = "Dionysüs",
-        guid = "Player-4453-04CCDEF1",
-        category = "raid",
-        description = "Took VoA mount for themselves, not stated anywhere as HR",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1065991059533988001",
-    },
-    {
         name = "Kàý",
         guid = "Player-4453-01BFFB67",
         category = "raid",
