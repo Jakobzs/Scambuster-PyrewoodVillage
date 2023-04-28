@@ -1325,5 +1325,12 @@ t.case_table = {
         guid = "Player-4453-04D68025",
         description = "Ninja'd Arcanic Tramplers to put on AH. When guild was spoken to, they decided not to rectify the situation",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1088066526692786246",
-    }
+    },
+    {
+        name = "Storelinus",
+        guid = "Player-4453-04D945BD",
+        category = "raid",
+        description = "Took 2 bosses worth of raid loot, said they traded to someone else, didn't and logged.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1101509765835784243",
+    },
 }
