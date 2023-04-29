@@ -1158,7 +1158,7 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1074283381145210880",
         players = {
             {
-                name = "Loserforever",
+                name = "Superfamous",
                 guid = "Player-4453-04A53A41",
             },
             {
@@ -1170,7 +1170,7 @@ t.case_table = {
                 guid = "Player-4453-04C33372",
             },
             {
-                name = "Honeychild",
+                name = "Femalebrain",
             },
             {
                 name = "Bettybop",
