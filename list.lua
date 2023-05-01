@@ -1181,7 +1181,8 @@ t.case_table = {
                 guid = "Player-4453-04D29954",
             },
             {
-                name = "Kittypurry",
+                name = "Kitypurry",
+                guid = "Player-4453-04CBA711",
             },
             {
                 name = "Mysterperez",
@@ -1194,7 +1195,8 @@ t.case_table = {
                 name = "Awopetihw",
             },
             {
-                name = "Dex",
+                name = "Dexbuild",
+                guid = "Player-4453-044C7104",
             },
             {
                 name = "Tangledup",
