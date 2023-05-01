@@ -865,11 +865,12 @@ t.case_table = {
                 name = "Qúestra",
             },
             {
-                name = "Kurásii",
+                name = "Solograsp",
                 guid = "Player-4453-044DA5AB",
             },
             {
-                name = "Cheolynn",
+                name = "Cheólynn",
+                guid = "Player-4453-044DA4A6",
             },
             {
                 name = "Twerko",
@@ -878,6 +879,14 @@ t.case_table = {
             {
                 name = "Bigmanforce",
                 guid = "Player-4453-044DA904",
+            },
+            {
+                name = "Majkáh",
+                guid = "Player-4453-044DA489",
+            },
+            {
+                name = "Moodypig",
+                guid = "Player-4453-04501842",
             }
         }
     },
