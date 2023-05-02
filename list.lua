@@ -1212,6 +1212,10 @@ t.case_table = {
                 name = "Tangledup",
                 guid = "Player-4453-044C7B84",
             },
+            {
+                name = "Dexdex",
+                guid = "Player-4453-044C5C81",
+            }
         }
     },
     {
