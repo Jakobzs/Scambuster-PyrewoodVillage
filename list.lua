@@ -1198,7 +1198,8 @@ t.case_table = {
                 guid = "Player-4453-04D2D42E",
             },
             {
-                name = "Clegnutgreg",
+                name = "Clegnutcraig",
+                guid = "Player-4453-04E55D69",
             },
             {
                 name = "Awopetihw",
