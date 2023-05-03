@@ -226,7 +226,7 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/976139922589233165",
     },
     {
-        name = "Billyboii",
+        name = "Pnd",
         guid = "Player-4453-03DA72E8",
         category = "raid",
         description = "Left Pug group as soon as item had dropped without saying a word",
