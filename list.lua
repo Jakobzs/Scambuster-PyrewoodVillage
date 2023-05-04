@@ -1349,4 +1349,11 @@ t.case_table = {
         description = "Took 2 bosses worth of raid loot, said they traded to someone else, didn't and logged.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1101509765835784243",
     },
+    {
+        name = "Snattare",
+        guid = "Player-4453-04EADEDF",
+        category = "harassment",
+        description = "Abusive and toxic chat in a group.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1103718794494484590",
+    }
 }
