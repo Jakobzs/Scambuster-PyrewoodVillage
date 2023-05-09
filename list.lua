@@ -1096,7 +1096,7 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1071403415982325850",
     },
     {
-        name = "Tendaridk",
+        name = "Detheroks",
         guid = "Player-4453-046AFB93",
         category = "raid",
         description = "Took advantage of a ML fail, needed on everything and wouldn't trade back the items that had been SR. Tried to sell a player their own SR item back.",
