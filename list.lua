@@ -1343,13 +1343,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1088066526692786246",
     },
     {
-        name = "Storelinus",
-        guid = "Player-4453-04D945BD",
-        category = "raid",
-        description = "Took 2 bosses worth of raid loot, said they traded to someone else, didn't and logged.",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1101509765835784243",
-    },
-    {
         name = "Snattare",
         guid = "Player-4453-04EADEDF",
         category = "harassment",
