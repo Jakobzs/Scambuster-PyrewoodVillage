@@ -1348,5 +1348,11 @@ t.case_table = {
         category = "harassment",
         description = "Abusive and toxic chat in a group.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1103718794494484590",
+    },
+    {
+        name = "Scrontlefagg",
+        category = "harassment",
+        description = "Abusive and toxic chat. Made a character to specifically target a player with hatespeech after a BG kill.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1109071857677783082",
     }
 }
