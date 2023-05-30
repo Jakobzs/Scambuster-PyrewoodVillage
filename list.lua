@@ -1354,5 +1354,31 @@ t.case_table = {
         category = "harassment",
         description = "Abusive and toxic chat. Made a character to specifically target a player with hatespeech after a BG kill.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1109071857677783082",
+    },
+    {
+        category = "trade",
+        description = "Stole items from Gbank on each character and then quit the guild.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1112693441365811251",
+        players = {
+            {
+                name = "Megamac",
+            },
+            {
+                name = "Ambereid",
+                guid = "Player-4453-04D1FF3D",
+            },
+            {
+                name = "Keeanna",
+                guid = "Player-4453-04B6B2DE",
+            },
+            {
+                name = "Wraiff",
+                guid = "Player-4453-04E5BC75",
+            },
+            {
+                name = "Swaay",
+                guid = "Player-4453-04A278FF",
+            }
+        }
     }
 }
