@@ -1380,5 +1380,12 @@ t.case_table = {
                 guid = "Player-4453-04A278FF",
             }
         }
+    },
+    {
+        name = "Tanned",
+        guid = "Player-4453-04ECEEEF",
+        category = "raid",
+        description = "Ninja'd Dying Curse, stating it was HR, after using an advert that had no HR in it.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1116751264009691227",
     }
 }
