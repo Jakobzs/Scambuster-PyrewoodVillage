@@ -1387,5 +1387,20 @@ t.case_table = {
         category = "raid",
         description = "Ninja'd Dying Curse, stating it was HR, after using an advert that had no HR in it.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1116751264009691227",
+    },
+    {
+        category = "harassment",
+        description = "Anti-semitic language used in names/discord name, description and in general conversation before removal from previous guild.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1119958054595727421",
+        players = {
+            {
+                name = "Notsuurin",
+                guid = "Player-4453-04C2488E",
+            },
+            {
+                name = "Hildolfr",
+                guid = "Player-4453-03B95FB1",
+            }
+        }
     }
 }
