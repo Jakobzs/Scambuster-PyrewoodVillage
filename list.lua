@@ -319,13 +319,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1020674957929369610",
     },
     {
-        name = "Restolash",
-        guid = "Player-4453-0479EE08",
-        category = "dungeon",
-        description = "Epic-quality BoE dropped in a heroic dungeon that his class/spec could not use - need rolled, won it, left the group, logged.",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1020675781137010788",
-    },
-    {
         name = "Sheyda",
         guid = "Player-4453-02DB5BDA",
         category = "raid",
