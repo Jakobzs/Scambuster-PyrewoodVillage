@@ -1395,5 +1395,19 @@ t.case_table = {
                 guid = "Player-4453-03B95FB1",
             }
         }
+    },
+    {
+        name = "Keitov",
+        guid = "Player-4453-04F2AE26",
+        category = "raid",
+        description = "Ninja'd cloth head from EOE and immediately logged off.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1122130591622631514",
+    },
+    {
+        name = "Immilzin",
+        guid = "Player-4453-04F16BB6",
+        category = "harassment",
+        description = "Toxic attitude/behaviour towards other players ",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1122130856845267076",
     }
 }
