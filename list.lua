@@ -306,7 +306,7 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1017000468066603038",
     },
     {
-        name = "Tiktokfanboy",
+        name = "Dmfeetpic",
         guid = "Player-4453-045A8006",
         category = "raid",
         description = "Toxic attitude in PuG runs, creates the run and loots items to themself, removes people before loot distribution etc.",
