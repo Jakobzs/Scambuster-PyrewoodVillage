@@ -191,13 +191,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/903666448793210950",
     },
     {
-        name = "Coxie",
-        guid = "Player-4453-030F798C",
-        category = "harassment",
-        description = "Toxic and abusive behaviour in pugs/groups",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/922090981711577088",
-    },
-    {
         name = "Totemjz",
         guid = "Player-4453-0383B0D5",
         category = "raid",
