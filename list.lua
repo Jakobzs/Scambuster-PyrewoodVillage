@@ -873,6 +873,10 @@ t.case_table = {
             {
                 name = "Moodypig",
                 guid = "Player-4453-04501842",
+            },
+            {
+                name = "Xorren",
+                guid = "Player-4453-044DA8B1",
             }
         }
     },
