@@ -1406,5 +1406,12 @@ t.case_table = {
         category = "harassment",
         description = "Toxic attitude/behaviour towards other players ",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1122130856845267076",
-    }
+    },
+    {
+        name = "Alyesia",
+        guid = "Player-4453-04789729",
+        category = "raid",
+        description = "Hosted a GDKP and logged off with full 140k pot",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1126439047418622043",
+    },
 }
