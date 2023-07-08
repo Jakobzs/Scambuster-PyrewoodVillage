@@ -1257,13 +1257,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1076214340664950884",
     },
     {
-        name = "Faeyrin",
-        guid = "Player-4453-0384CB47",
-        category = "dungeon",
-        description = "Took SNR as they said they needed it. On further inspection, they'd already had it equipped for awhile.",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1076505571391455353",
-    },
-    {
         description = "Left guild, pillaged the guild bank of what they could take just before they left and sold high cost items for personal gain.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1080494400985116685",
         players = {
