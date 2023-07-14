@@ -1407,4 +1407,23 @@ t.case_table = {
         description = "Hosted a GDKP and logged off with full 140k pot",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1126439047418622043",
     },
+    {
+        category = "harassment",
+        description = "Abusive and toxic behaviour",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1129335570519302194",
+        players = {
+            {
+                name = "Gotyobooty",
+                guid = "Player-4453-04DCAFBD",
+            },
+            {
+                name = "Chäotïc",
+                guid = "Player-4453-04FBAFDE",
+            },
+            {
+                name = "Treshezbitz",
+                guid = "Player-4453-04FBB02D",
+            }
+        }
+    }
 }
