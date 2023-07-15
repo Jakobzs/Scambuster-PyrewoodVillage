@@ -1423,6 +1423,9 @@ t.case_table = {
             {
                 name = "Treshezbitz",
                 guid = "Player-4453-04FBB02D",
+            },
+            {
+                name = "Mommymîlkers",
             }
         }
     }
