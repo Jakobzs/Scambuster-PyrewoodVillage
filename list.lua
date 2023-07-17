@@ -1428,5 +1428,12 @@ t.case_table = {
                 name = "Mommymîlkers",
             }
         }
+    },
+    {
+        name = "Pnd",
+        guid = "Player-4453-03DA72E8",
+        category = "harassment",
+        description = "Racist and toxic/abusive language used",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1130438672886546542",
     }
 }
