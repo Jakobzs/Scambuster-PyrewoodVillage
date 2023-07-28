@@ -1435,5 +1435,11 @@ t.case_table = {
         category = "harassment",
         description = "Racist and toxic/abusive language used",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1130438672886546542",
+    },
+    {
+        name = "Silhtbh",
+        guid = "Player-4453-039177E5",
+        description = "Came back from being inactive, took high value items from gbank and quit.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1134145195789787166",
     }
 }
