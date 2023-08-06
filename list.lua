@@ -1441,5 +1441,47 @@ t.case_table = {
         guid = "Player-4453-039177E5",
         description = "Came back from being inactive, took high value items from gbank and quit.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1134145195789787166",
+    },
+    {
+        name = "Slaydaa",
+        category = "raid",
+        description = "Needed on reserved items during master looting error, refused to trade items to leader, logged.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1137684560809832569",
+    },
+    {
+        name = "Wryelin",
+        guid = "Player-4453-04821738",
+        category = "raid",
+        description = "Unfairly stripped someone of loot during MS>OS raid, breaking his own loot rules.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1137684560809832569",
+    },
+    {
+        name = "Vivant",
+        guid = "Player-4453-049B6AA3",
+        category = "raid",
+        description = "Lost the roll on Death's Verdict, decided he wanted it anyway, took and equipped.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1137684560809832569",
+    },
+    {
+        name = "Renessme",
+        guid = "Player-4453-04964E74",
+        category = "raid",
+        description = "Needed on reserved items during master looter error, tried to extort the raid leader out of 5k gold to trade it back.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1137684560809832569",
+    },
+    {
+        category = "raid",
+        description = "During MS>OS semi-guild raid, changed guild members spec immediately before Tank loot was rolled out in order to steal it for the Tank that was in guild. Clearly set up.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1137684560809832569",
+        players = {
+            {
+                name = "Podhorský",
+                guid = "Player-4453-03785911",
+            },
+            {
+                name = "Pumpernickla",
+                guid = "Player-4453-04FA2BE9",
+            }
+        }
     }
 }
