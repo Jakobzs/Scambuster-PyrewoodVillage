@@ -1483,5 +1483,12 @@ t.case_table = {
                 guid = "Player-4453-04FA2BE9",
             }
         }
+    },
+    {
+        name = "Lást",
+        guid = "Player-4453-05036864",
+        category = "raid",
+        description = "Kicked people after witholding loot. People didn't want to continue without loot distribution as a DC had already happened.  Lást stated that declining a readycheck would involve being kicked, and that's what they did.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1148359898145509547",
     }
 }
