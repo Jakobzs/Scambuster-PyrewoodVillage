@@ -581,13 +581,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1039867043643674674",
     },
     {
-        name = "Rajä",
-        guid = "Player-4453-049003C4",
-        category = "raid",
-        description = "Ignored SR roll, made the winner roll again and gave to someone else in raid",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1039871115188776980",
-    },
-    {
         name = "Unknowhaji",
         guid = "Player-4453-04A593FA",
         category = "dungeon",
@@ -1488,7 +1481,14 @@ t.case_table = {
         name = "Lást",
         guid = "Player-4453-05036864",
         category = "raid",
-        description = "Kicked people after witholding loot. People didn't want to continue without loot distribution as a DC had already happened.  Lást stated that declining a readycheck would involve being kicked, and that's what they did.",
+        description = "Kicked people after witholding loot. People didn't want to continue without loot distribution as a DC had already happened. Lást stated that declining a readycheck would involve being kicked, and that's what they did.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1148359898145509547",
+    },
+    {
+        name = "Dürr",
+        guid = "Player-4453-051381A5",
+        category = "raid",
+        description = "Left raid with boss loot and orbs, leaving raid with a scuffed ToGC 10 ID",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1151571071829561424",
     }
 }
