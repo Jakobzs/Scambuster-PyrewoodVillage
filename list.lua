@@ -1490,5 +1490,11 @@ t.case_table = {
         category = "raid",
         description = "Left raid with boss loot and orbs, leaving raid with a scuffed ToGC 10 ID",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1151571071829561424",
+    },
+    {
+        name = "Nexara",
+        category = "raid",
+        description = "Hosted a GDKP and left with the pot",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1154337045230145568",
     }
 }
