@@ -1496,5 +1496,12 @@ t.case_table = {
         category = "raid",
         description = "Hosted a GDKP and left with the pot",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1154337045230145568",
+    },
+    {
+        name = "Patronesco",
+        guid = "Player-4453-04DDF51A",
+        category = "dungeon",
+        description = "Blatantly ninja'd SNR",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1156531938513928293",
     }
 }
