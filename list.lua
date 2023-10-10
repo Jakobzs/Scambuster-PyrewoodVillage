@@ -1503,5 +1503,19 @@ t.case_table = {
         category = "dungeon",
         description = "Blatantly ninja'd SNR",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1156531938513928293",
+    },
+    {
+        name = "Dukazutden",
+        guid = "Player-4453-04B4D2E4",
+        category = "raid",
+        description = "Took almost all loot from a ToGC as they \"dc'd\", was also swapping lead very often with another player in the raid.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1160999056647147651",
+    },
+    {
+        name = "Pepdres",
+        guid = "Player-4453-05096F77",
+        category = "raid",
+        description = "Was swapping lead with Dukazutden (see above) in a very suspicious ToGC run that led to only person receiving one item. All other items were on the leaders who \"disconnected\"",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1160999526090424350",
     }
 }
