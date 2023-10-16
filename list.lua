@@ -1517,5 +1517,19 @@ t.case_table = {
         category = "raid",
         description = "Was swapping lead with Dukazutden (see above) in a very suspicious ToGC run that led to only person receiving one item. All other items were on the leaders who \"disconnected\"",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1160999526090424350",
+    },
+    {
+        name = "Genesiq",
+        guid = "Player-4453-04D6D5FD",
+        category = "trade",
+        description = "Offered to craft new recipe, logged off with all mats",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1162825591632965732",
+    },
+    {
+        name = "Satanslayer",
+        guid = "Player-4453-048D796F",
+        category = "trade",
+        description = "Advertised craft of new ICC items, logged off with all materials",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1162825591632965732",
     }
 }
