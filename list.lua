@@ -1531,5 +1531,12 @@ t.case_table = {
         category = "trade",
         description = "Advertised craft of new ICC items, logged off with all materials",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1162825591632965732",
+    },
+    {
+        name = "Rebornstar",
+        guid = "Player-4453-048D796F",
+        category = "raid",
+        description = "Took boe ring from marrowgar as needed for \"main\". Proceeded to list on AH.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1164210735811928114",
     }
 }
