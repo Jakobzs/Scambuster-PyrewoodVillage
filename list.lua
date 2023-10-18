@@ -1534,7 +1534,7 @@ t.case_table = {
     },
     {
         name = "Rebornstar",
-        guid = "Player-4453-048D796F",
+        guid = "Player-4453-04A299A4",
         category = "raid",
         description = "Took boe ring from marrowgar as needed for \"main\". Proceeded to list on AH.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1164210735811928114",
