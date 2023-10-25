@@ -1519,7 +1519,7 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1160999526090424350",
     },
     {
-        name = "Genesiq",
+        name = "Pwnlyfanz",
         guid = "Player-4453-04D6D5FD",
         category = "trade",
         description = "Offered to craft new recipe, logged off with all mats",
