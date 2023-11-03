@@ -481,13 +481,6 @@ t.case_table = {
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1034871677571580034",
     },
     {
-        name = "Arkrage",
-        guid = "Player-4453-043245BD",
-        category = "harassment",
-        description = "Using extremely homophobic and toxic language",
-        url = "https://discord.com/channels/834101274763984958/839835845137793055/1035547275096760401",
-    },
-    {
         name = "Silverrhand",
         guid = "Player-4453-04A98079",
         category = "dungeon",
