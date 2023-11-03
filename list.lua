@@ -1538,5 +1538,12 @@ t.case_table = {
         category = "raid",
         description = "Took boe ring from marrowgar as needed for \"main\". Proceeded to list on AH.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1164210735811928114",
+    },
+    {
+        name = "Ootnas",
+        guid = "Player-4453-04F10654",
+        category = "raid",
+        description = "Changed loot rules mid-raid to take a tier token",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1169670929970909234",
     }
 }
