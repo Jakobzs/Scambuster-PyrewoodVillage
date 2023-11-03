@@ -1538,5 +1538,12 @@ t.case_table = {
         category = "raid",
         description = "Changed loot rules mid-raid to take a tier token",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1169670929970909234",
+    },
+    {
+        name = "Narsill",
+        guid = "Player-4453-0144A713",
+        category = "raid",
+        description = "Rolled on BoE ring in ICC as need with agreement to equip. Refused to equip after winning and didn't trade item back.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1169977582419181568",
     }
 }
