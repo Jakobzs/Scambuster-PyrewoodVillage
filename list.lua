@@ -1545,5 +1545,12 @@ t.case_table = {
         category = "raid",
         description = "Rolled on BoE ring in ICC as need with agreement to equip. Refused to equip after winning and didn't trade item back.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1169977582419181568",
+    },
+    {
+        name = "Bakooma",
+        guid = "Player-4453-043A950E",
+        category = "raid",
+        description = "Ignored winning MS roll and awarded item to a guildmate.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1171387588687446026",
     }
 }
