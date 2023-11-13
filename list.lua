@@ -1552,5 +1552,12 @@ t.case_table = {
         category = "raid",
         description = "Ignored winning MS roll and awarded item to a guildmate.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1171387588687446026",
+    },
+    {
+        name = "Proteinet",
+        guid = "Player-4453-0401AF27",
+        category = "raid",
+        description = "Kept 2 BOE Guns without rolling them out (even for MS) was not advertised that way.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1172246111797391451",
     }
 }
