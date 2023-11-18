@@ -1559,5 +1559,19 @@ t.case_table = {
         category = "raid",
         description = "Kept 2 BOE Guns without rolling them out (even for MS) was not advertised that way.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1172246111797391451",
+    },
+    {
+        name = "Lustful",
+        guid = "Player-4453-026B29E1",
+        category = "raid",
+        description = "Toxic and abusive language",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1175131939334795284",
+    },
+    {
+        name = "Shifterx",
+        guid = "Player-4453-032A5C17",
+        category = "raid",
+        description = "Item was given in error, they left the raid group, ignored all communication and logged off with the item.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1175132402293678090",
     }
 }
