@@ -1573,5 +1573,12 @@ t.case_table = {
         category = "raid",
         description = "Item was given in error, they left the raid group, ignored all communication and logged off with the item.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1175132402293678090",
+    },
+    {
+        name = "Bidux",
+        guid = "Player-4453-051ACB61",
+        category = "raid",
+        description = "Ignored rules about equipping BOES, refused to equip and put 1 of 2 won on the AH. Also removed another druid from a VoA after item dropped for their class.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1175955451217711144",
     }
 }
