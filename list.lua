@@ -1580,5 +1580,12 @@ t.case_table = {
         category = "raid",
         description = "Ignored rules about equipping BOES, refused to equip and put 1 of 2 won on the AH. Also removed another druid from a VoA after item dropped for their class.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1175955451217711144",
+    },
+    {
+        name = "Littleweaver",
+        guid = "Player-4453-0520AD0F",
+        category = "raid",
+        description = "Organised a raid with 3 SR, then decided midway through raid to keep an unreserved item without rolling for it.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1179355856370929675",
     }
 }
