@@ -1587,5 +1587,19 @@ t.case_table = {
         category = "raid",
         description = "Organised a raid with 3 SR, then decided midway through raid to keep an unreserved item without rolling for it.",
         url = "https://discord.com/channels/834101274763984958/839835845137793055/1179355856370929675",
-    }
+    },
+    {
+        category = "raid",
+        description = "Looted two vanquisher marks to himself and then left the raid.",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1209089203795791882",
+        players = {
+            {
+                name = "Pillbondy",
+            },
+            {
+                name = "Rowanoake",
+                guid = "Player-4453-0538819E",
+            }
+        }
+    },
 }
