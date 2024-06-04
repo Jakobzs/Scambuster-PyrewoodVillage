@@ -1602,4 +1602,10 @@ t.case_table = {
             }
         }
     },
+    {
+        name = "Eclipsedk",
+        category = "raid",
+        description = "Took BOE agility epic cloak as a Paladin, sold on AH for profit",
+        url = "https://discord.com/channels/834101274763984958/839835845137793055/1246841841786163302",
+    },
 }
